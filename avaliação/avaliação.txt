@@ -1,0 +1,12 @@
+Nome;CPF;Endereco;Frete;FormaPag
+
+Aline Batista;5450515010;Rua Pau do Café;Entrega rápida;Cartao de debito
+Thamires Gomes;46346024825;Rua pedro lobo;entrega gratuita;Pix
+Willian Batista;4163167478;AV Maria candida;Entrega rápida;Boleto
+Mellisa Rocha;15694797;Dom Marcos Teixeira;Entrega rápida;Cartão de credito
+Wilomar Amaro;157144179;Jardim Arco Iris;Expresso;Boleto
+Nathalia justiliano;16987187;AV Casa Grande;entrega rápida;Pix
+Léon Trotski;2167364788;R.Botocudos;Expresso;PIX
+José Artigas;54673769767;R.Stratus;entrega rápida;Boleto
+José Iamamoto;698645688;R.Piratininga;Expresso;PIX
+Joana Sousa;46497587;R.Mozart;Entrega rápida;PIX
